@@ -2,7 +2,7 @@
 
 User Login System
 
-?? Scenario Description:
+Scenario Description:
 
 - There are registered users in the system,
 - If the information is correct, it will say "Login successful",
